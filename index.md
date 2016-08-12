@@ -1,6 +1,6 @@
 #前端开发 手册 ![](http://m.tfedu.net/public/pub-img/zhl_logo_lg.png)
 
-##本手册提供
+##前端知识学习
 
 >1. 前端wiki
 >2. 代码规范
