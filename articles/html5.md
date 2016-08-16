@@ -1,2 +1,2 @@
 # 
-- <template>标签自带display:none
+- template标签自带display:none
